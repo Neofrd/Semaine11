@@ -1,0 +1,20 @@
+#propal {
+    margin: 1em;
+    height: 2em;
+    padding-left: 0.5em;
+}
+#bouton {
+    height: 3em;
+}
+#tentative {
+
+    display: block;
+	height: 1.5em;
+    margin: 1em;
+}
+#resultat {
+    border: 1px #000 dashed;
+    margin: 0 1em;
+    line-height: 2em;
+    padding-left: 0.5em;
+}

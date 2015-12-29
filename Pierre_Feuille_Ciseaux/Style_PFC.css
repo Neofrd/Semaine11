@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+	}
+  
+#form_col {
+	display: inline-block;
+	margin-right: 15px;
+	padding: 3px 0px;
+	width: 200px;
+	min-height: 1px;
+	text-align: center;
+	}
+div {
+  text-align: center;
+  heigth: 1.5em;
+  display: block;
+}
